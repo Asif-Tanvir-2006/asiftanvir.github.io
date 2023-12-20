@@ -8,7 +8,7 @@ aliases: ["terminal", "art"]
 
 ## Showcase
 Some nice terminal art I created in my off time that I thought would be worth showing you guys.
-![terminal](/content/terminal.png)
+![terminal](https://github.com/Asif-Tanvir-2006/asiftanvir.github.io/tree/main/content/terminal.png)
 
 
 ## Artix, BTW :]
