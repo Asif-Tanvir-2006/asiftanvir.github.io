@@ -25,7 +25,7 @@ I've been immersed in the world of Linux for [3 years], and I've found my home i
 
 ## My Socials
 
-- **Youtube:** [Asif](www.youtube.com/@tanvirasif122)
+- **Youtube:** [Asif](https://www.youtube.com/@tanvirasif122)
 - **GitHub:** [Asif-Tanvir-2006](https://github.com/Asif-Tanvir-2006)
 
 Feel free to reach out, share your thoughts, or suggest topics you'd like me to cover. Let's embark on this Linux journey together!
