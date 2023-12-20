@@ -13,7 +13,7 @@ Some nice terminal art I created in my off time that I thought would be worth sh
 
 ## Artix, BTW :]
 systemd-free, based distro that inherits everything from Arch.
-![artix](content/artix.png)
+![artix](artix.png)
 
 ## Info
 The step by step procedure to install and configure everything will be uploaded soon too. Thanks!
