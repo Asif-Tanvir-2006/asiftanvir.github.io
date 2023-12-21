@@ -22,7 +22,7 @@ enableRobotsTXT = true
 base_color = "bg-gray-800"
 
 #Site description
-description = "Blonde theme for Hugo."
+description = "Asif's site"
 
 # The number of articles to be displayed on a single page.
 paginator_pages = "5"
@@ -72,7 +72,7 @@ darkmode = "light"
     display = true
 
     # Order of widgets to display
-    widgets = ["tags", "recent"]
+    widgets = ["recent"]
 
 # If you're using Yandex.Metrica, you can enable this feature.
 #[params.analytics.yandexmetrica]
