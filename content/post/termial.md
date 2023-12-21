@@ -17,7 +17,7 @@ tags = [
 
 ## Artix, BTW :]
 systemd-free, based distro that inherits everything from Arch.
-![Artic](img/artix.png)
+![Artix](https://asif-tanvir-2006.github.io/asiftanvir.github.io/img/artix.png)
 
 ## Info
 The step by step procedure to install and configure everything will be uploaded soon too. Thanks!
