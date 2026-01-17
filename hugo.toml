@@ -1,4 +1,7 @@
-baseURL = "https://Asif.github.io/asiftanvir.github.io/"
+baseURL = "/"
+relativeURLs = true
+canonifyURLs = true
+
 title = "Asif's github.io"
 author = "Asif"
 languageCode = "en"
